@@ -1,7 +1,7 @@
 
 ## Introduction
 
-This is source code of ``Adversarial Sub-sequence for Text Generation``.
+The detection of distributional discrepancy for text generation
 
 ## LICENSE
 
